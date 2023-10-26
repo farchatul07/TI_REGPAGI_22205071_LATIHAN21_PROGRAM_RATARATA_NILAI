@@ -7,7 +7,12 @@ import java.util.Scanner;
 /**
  *
  * @author user
- */
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program yang menerima input jumlah, nilai, menghitung dan mencetak rata-rata nilai
+
 public class Latihan21 {
 
      public static void main(String[] args) {
